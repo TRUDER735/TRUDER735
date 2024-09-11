@@ -1,6 +1,6 @@
 👋 Hi, I’m Elisha Norman Urombo.
 
-🌱 I’m currently learning Retrieval-Augmented Generation(RAG).
+🌱 I’m currently learning Retrieval-Augmented Generation(RAG) and Go.
 
 👀 I’m interested in Writting Scaleable code.
 
